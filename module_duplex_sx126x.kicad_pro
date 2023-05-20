@@ -452,11 +452,11 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Default",
+        "netclass": "PWR",
         "pattern": "VCC"
       },
       {
-        "netclass": "Default",
+        "netclass": "PWR",
         "pattern": "GND"
       },
       {
