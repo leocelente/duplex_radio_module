@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "0_Diagram")(type "KiCad")(uri "/home/leocelente/Documents/dual_radio/module_duplex_sx126x")(options "")(descr ""))
+)
